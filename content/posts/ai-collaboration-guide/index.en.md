@@ -1,6 +1,6 @@
 ---
 title: "A Practical Guide to AI-Assisted Development: Agent.md + Skills"
-date: 2026-06-06
+date: 2026-03-31
 draft: false
 summary: "How to use Agent.md (CLAUDE.md / AGENTS.md) and Skills to make AI-assisted development more effective: core concepts, meta-prompts, skill-creator, and the differences between Claude Code and Codex."
 tags: ["AI", "Claude Code", "Codex", "Skills"]

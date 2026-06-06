@@ -1,6 +1,6 @@
 ---
 title: "AI 協作開發指南：Agent.md + Skills 實戰手冊"
-date: 2026-06-06
+date: 2026-03-31
 draft: false
 summary: "如何用 Agent.md（CLAUDE.md / AGENTS.md）與 Skills 提升 AI 協同開發效率：核心概念、meta-prompt、skill-creator，以及 Claude Code 與 Codex 的差異。"
 tags: ["AI", "Claude Code", "Codex", "Skills"]
