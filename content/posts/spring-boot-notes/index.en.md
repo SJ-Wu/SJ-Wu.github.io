@@ -1,6 +1,6 @@
 ---
 title: "Spring Boot for Beginners: My Study Notes"
-date: 2022-09-01
+date: 2022-12-24
 draft: false
 summary: "My notes from self-studying Spring Boot: IoC/DI, AOP, Spring MVC, RESTful APIs, request validation, Spring JDBC, the three-tier architecture, and unit testing with JUnit 5 and Mockito."
 tags: ["Java", "Spring Boot", "Notes"]

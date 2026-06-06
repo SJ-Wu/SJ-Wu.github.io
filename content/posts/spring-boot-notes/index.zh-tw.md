@@ -1,6 +1,6 @@
 ---
 title: "Spring Boot 零基礎入門學習筆記"
-date: 2022-09-01
+date: 2022-12-24
 draft: false
 summary: "自學 Spring Boot 的整理筆記：IoC/DI、AOP、Spring MVC、RESTful API、參數驗證、Spring JDBC、三層式架構，到 JUnit 5 與 Mockito 單元測試。"
 tags: ["Java", "Spring Boot", "學習筆記"]
