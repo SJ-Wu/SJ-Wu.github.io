@@ -9,6 +9,11 @@
   weight = 20
 
 [[main]]
+  name = "標籤"
+  pageRef = "tags"
+  weight = 30
+
+[[main]]
   name = "關於"
   pageRef = "about"
-  weight = 30
+  weight = 40
