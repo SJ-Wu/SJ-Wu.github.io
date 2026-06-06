@@ -1,6 +1,6 @@
 ---
 title: "KYC Liveness & Deepfake Detection"
-date: 2025-01-01
+date: 2026-03-01
 summary: "A production computer-vision service that decides whether a face-verification submission is a real, live person or a spoof / deepfake."
 showSummary: true
 tags: ["Computer Vision", "Machine Learning", "PyTorch", "ONNX", "FastAPI"]

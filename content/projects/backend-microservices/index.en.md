@@ -1,6 +1,6 @@
 ---
 title: "Backend Microservices Platform"
-date: 2024-01-01
+date: 2025-05-19
 summary: "Spring Cloud microservices for a customer-management and transaction platform — refactoring, performance, and engineering practices."
 showSummary: true
 tags: ["Java", "Spring Cloud", "Redis", "Microservices", "CI/CD"]

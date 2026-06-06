@@ -1,6 +1,6 @@
 ---
 title: "後端微服務平台"
-date: 2024-01-01
+date: 2025-05-19
 summary: "客戶管理與交易平台的 Spring Cloud 微服務 — 重構、效能與工程實踐。"
 showSummary: true
 tags: ["Java", "Spring Cloud", "Redis", "微服務", "CI/CD"]

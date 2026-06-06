@@ -1,6 +1,6 @@
 ---
 title: "KYC 活體與深偽偵測"
-date: 2025-01-01
+date: 2026-03-01
 summary: "一套生產環境的電腦視覺服務，判斷人臉驗證的影像來自真實活人，還是攻擊樣本／深偽。"
 showSummary: true
 tags: ["電腦視覺", "機器學習", "PyTorch", "ONNX", "FastAPI"]
