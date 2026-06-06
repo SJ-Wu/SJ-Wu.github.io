@@ -1,0 +1,5 @@
+## Blowfish theme installed as a Hugo Module.
+## Upgrade with:  hugo mod get -u github.com/nunocoracao/blowfish/v2
+
+[[imports]]
+  path = "github.com/nunocoracao/blowfish/v2"

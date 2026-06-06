@@ -1,0 +1,66 @@
+## Blowfish theme params — https://blowfish.page/docs/configuration/
+
+colorScheme = "blowfish"
+defaultAppearance = "auto"        # light | dark | auto
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+
+disableImageOptimization = false
+smartTOC = true
+
+[header]
+  layout = "basic"                # basic | fixed | fixed-fill | fixed-fill-blur
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "profile"              # profile landing (portfolio-style)
+  homepageImage = ""              # set when an avatar/hero image is added
+  showRecent = true              # surface latest blog posts on the landing
+  showRecentItems = 4
+  showMoreLink = true
+  showMoreLinkDest = "posts"
+  cardView = true
+
+[article]
+  showDate = true
+  showDateUpdated = false
+  showAuthor = true
+  showHero = false
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  showHeadingAnchors = true
+  showPagination = true
+  showReadingTime = true
+  showTableOfContents = true
+  showTaxonomies = true
+  showWordCount = false
+  showComments = false
+
+[list]
+  showHero = false
+  showBreadcrumbs = false
+  showSummary = true
+  showTableOfContents = false
+  showCards = true
+  groupByYear = true
+
+[sitemap]
+  excludedKinds = ["taxonomy", "term"]
+
+[taxonomy]
+  showTermCount = true
+  showHero = false
+  showBreadcrumbs = true
+
+[firebase]
+
+[rssnext]

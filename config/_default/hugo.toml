@@ -1,0 +1,21 @@
+baseURL = "https://sj-wu.github.io/"
+defaultContentLanguage = "en"
+# Show all translations of a page; keep untranslated pages from leaking
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+enableEmoji = true
+# Blowfish needs these outputs on the home page for search/RSS
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"

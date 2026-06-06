@@ -1,0 +1,43 @@
+[en]
+  label = "English"
+  locale = "en-US"
+  weight = 1
+  title = "SJ.Wu"
+
+  [en.params]
+    displayName = "EN"
+    isoCode = "en"
+    rtl = false
+    dateFormat = "2 January 2006"
+
+    [en.params.author]
+      name = "SJ.Wu"
+      headline = "Software Engineer"
+      bio = "Backend microservices in production, now also building applied ML / computer vision for identity verification (liveness & deepfake detection). Ex-SSD firmware engineer."
+      links = [
+        { email = "mailto:nickwu0301@gmail.com" },
+        { github = "https://github.com/SJ-Wu" },
+        { linkedin = "https://www.linkedin.com/in/shengjuwu/" },
+      ]
+
+[zh-tw]
+  label = "繁體中文"
+  locale = "zh-TW"
+  weight = 2
+  title = "SJ.Wu"
+
+  [zh-tw.params]
+    displayName = "中"
+    isoCode = "zh-TW"
+    rtl = false
+    dateFormat = "2006年1月2日"
+
+    [zh-tw.params.author]
+      name = "SJ.Wu"
+      headline = "軟體工程師"
+      bio = "打造生產環境的後端微服務，近期投入身分驗證領域的應用機器學習與電腦視覺（活體偵測與深偽偵測）。曾任 SSD 韌體工程師。"
+      links = [
+        { email = "mailto:nickwu0301@gmail.com" },
+        { github = "https://github.com/SJ-Wu" },
+        { linkedin = "https://www.linkedin.com/in/shengjuwu/" },
+      ]
