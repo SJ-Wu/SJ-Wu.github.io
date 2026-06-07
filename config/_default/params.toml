@@ -8,6 +8,7 @@ enableSearch = true
 enableCodeCopy = true
 
 disableImageOptimization = false
+defaultSocialImage = "img/og.png"   # OG / social share image (1.91:1)
 smartTOC = true
 
 [header]

@@ -12,6 +12,7 @@
 
     [en.params.author]
       name = "SJ.Wu"
+      image = "img/avatar.jpeg"
       headline = "Software Engineer"
       bio = "Backend microservices in production, now also building applied ML / computer vision for identity verification (liveness & deepfake detection). Ex-SSD firmware engineer."
       links = [
@@ -34,6 +35,7 @@
 
     [zh-tw.params.author]
       name = "SJ.Wu"
+      image = "img/avatar.jpeg"
       headline = "軟體工程師"
       bio = "打造生產環境的後端微服務，近期投入身分驗證領域的應用機器學習與電腦視覺（活體偵測與深偽偵測）。曾任 SSD 韌體工程師。"
       links = [
