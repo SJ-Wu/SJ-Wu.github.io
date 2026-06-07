@@ -1,4 +1,4 @@
-baseURL = "https://sj-wu.github.io/"
+baseURL = "https://sj-wu.com/"
 defaultContentLanguage = "en"
 # Show all translations of a page; keep untranslated pages from leaking
 defaultContentLanguageInSubdir = false
